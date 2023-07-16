@@ -20,7 +20,7 @@ In summary, by developing my fundamental skills in the C programming language th
   
 ## Screenshots
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectScreen2.gif)
+![Screenshots](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectScreen2.gif)
 
 ## Features
 
