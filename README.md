@@ -28,18 +28,25 @@ Sonuç olarak, bu projede C programlama dilindeki temel becerilerimi geliştirer
   
 ## Özellikler
 
-- Kullanıcıdan alınan bir sayının karekökünü hesaplayan bir program
-- Kullanıcıdan alınan bir metindeki harfleri büyük/küçük harfe dönüştüren bir program
-- Kullanıcıdan alınan bir metindeki belirli bir harfin kaç kez geçtiğini bulan bir program
-- Kullanıcıdan alınan bir metindeki kelimeleri ters sırayla yazdıran bir program
+- Multiplication Table with Loops: A program that generates a multiplication table using loops.
 
-- Kullanıcıdan alınan bir metindeki rakamları toplayan bir program
-- Kullanıcıdan alınan bir tam sayının pozitif bölenlerini bulan bir program
-- Kullanıcıdan alınan bir tam sayının ikilik (binary) tabandaki karşılığını bulan bir program
-- Kullanıcıdan alınan bir tam sayının ondalık (decimal) tabandaki karşılığını bulan bir program
+- Finding the Number of Digits in a Number: A program that determines the number of digits in a given number.
 
-- Kullanıcının girdiği bir tam sayının karesini ve küpünü hesaplayan bir program
-- Kullanıcıdan alınan iki sayının en büyük ortak bölenini (EBOB) bulan bir program
+- Calculating the Power of a Number: A program that calculates the power of a given number.
+
+- Division and Remainder Calculator: A program that calculates the division and remainder of two numbers.
+
+- Prime Number Checker: A program that checks if a given number is prime or not.
+
+- Finding the Greatest Common Divisor (GCD) of Two Numbers: A program that calculates the greatest common divisor of two numbers.
+
+- Finding the Least Common Multiple (LCM) of Two Numbers: A program that calculates the least common multiple of two numbers.
+
+- Armstrong Number Checker: A program that checks if a given number is an Armstrong number or not.
+
+- Palindrome Number Checker: A program that checks if a given number is a palindrome or not.
+
+- Printing Palindrome Numbers within a Given Range: A program that prints palindrome numbers within a specified range.
 
 
   
