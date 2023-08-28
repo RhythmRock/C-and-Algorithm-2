@@ -24,13 +24,7 @@ In summary, by developing my fundamental skills in the C programming language th
 
 ## Features
 
-- Multiplication Table with Loops: A program that generates a multiplication table using loops.
-
 - Finding the Number of Digits in a Number: A program that determines the number of digits in a given number.
-
-- Calculating the Power of a Number: A program that calculates the power of a given number.
-
-- Division and Remainder Calculator: A program that calculates the division and remainder of two numbers.
 
 - Prime Number Checker: A program that checks if a given number is prime or not.
 
@@ -41,8 +35,6 @@ In summary, by developing my fundamental skills in the C programming language th
 - Armstrong Number Checker: A program that checks if a given number is an Armstrong number or not.
 
 - Palindrome Number Checker: A program that checks if a given number is a palindrome or not.
-
-- Printing Palindrome Numbers within a Given Range: A program that prints palindrome numbers within a specified range.
 
 ## Technologies Used
 
